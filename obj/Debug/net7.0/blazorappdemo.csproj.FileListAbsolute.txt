@@ -826,3 +826,4 @@ C:\platzi\blazorappdemo\obj\Debug\net7.0\blazorappdemo.dll
 C:\platzi\blazorappdemo\obj\Debug\net7.0\refint\blazorappdemo.dll
 C:\platzi\blazorappdemo\obj\Debug\net7.0\blazorappdemo.pdb
 C:\platzi\blazorappdemo\obj\Debug\net7.0\ref\blazorappdemo.dll
+C:\platzi\blazorappdemo\obj\Debug\net7.0\scopedcss\Pages\Products\Products.razor.rz.scp.css
