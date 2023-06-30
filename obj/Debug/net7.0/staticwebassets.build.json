@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hjFUcPqQ7fQXCTJZ2F1a+lRFxUBUV7G9qapMWNRgxcY=",
+  "Hash": "tVB+lxrB5Ey28xpundug4+gllSh/WZ9AA+NyLhtmYbU=",
   "Source": "blazorappdemo",
   "BasePath": "/",
   "Mode": "Root",
@@ -6900,6 +6900,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\platzi\\blazorappdemo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazorappdemo.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\platzi\\blazorappdemo\\wwwroot\\appsettings.json",
+      "SourceId": "blazorappdemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\platzi\\blazorappdemo\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "C:\\platzi\\blazorappdemo\\wwwroot\\css\\app.css",

@@ -309,6 +309,65 @@
         }
       },
       {
+        "HashCode": -1471657861,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Counter",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "currentCountParameter",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "currentCountParameter",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "blazorappdemo.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1157501369,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Counter",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorappdemo.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "currentCountParameter",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "currentCountParameter",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "blazorappdemo.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": 1865776913,
         "Kind": "Components.Component",
         "Name": "blazorappdemo.Pages.FetchData",
@@ -377,65 +436,6 @@
         "Metadata": {
           "Common.TypeName": "blazorappdemo.Pages.Index",
           "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "blazorappdemo.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1471657861,
-        "Kind": "Components.Component",
-        "Name": "blazorappdemo.Pages.Counter",
-        "AssemblyName": "blazorappdemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "currentCountParameter",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "currentCountParameter",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazorappdemo.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "blazorappdemo.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1157501369,
-        "Kind": "Components.Component",
-        "Name": "blazorappdemo.Pages.Counter",
-        "AssemblyName": "blazorappdemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorappdemo.Pages.Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "currentCountParameter",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "currentCountParameter",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazorappdemo.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
           "Common.TypeNamespace": "blazorappdemo.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
