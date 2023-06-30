@@ -9,65 +9,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -198641224,
-        "Kind": "Components.Component",
-        "Name": "blazorappdemo.Shared.SurveyPrompt",
-        "AssemblyName": "blazorappdemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazorappdemo.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Common.TypeNamespace": "blazorappdemo.Shared",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1120646039,
-        "Kind": "Components.Component",
-        "Name": "blazorappdemo.Shared.SurveyPrompt",
-        "AssemblyName": "blazorappdemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorappdemo.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazorappdemo.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Common.TypeNamespace": "blazorappdemo.Shared",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": 459063765,
         "Kind": "Components.Component",
         "Name": "blazorappdemo.Shared.MainLayout",
@@ -211,6 +152,126 @@
         }
       },
       {
+        "HashCode": -198641224,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Shared.SurveyPrompt",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Shared.SurveyPrompt",
+          "Common.TypeNameIdentifier": "SurveyPrompt",
+          "Common.TypeNamespace": "blazorappdemo.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1120646039,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Shared.SurveyPrompt",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorappdemo.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Shared.SurveyPrompt",
+          "Common.TypeNameIdentifier": "SurveyPrompt",
+          "Common.TypeNamespace": "blazorappdemo.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1609062399,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Shared.ModuleTitle",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ModuleTitle"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Shared.ModuleTitle",
+          "Common.TypeNameIdentifier": "ModuleTitle",
+          "Common.TypeNamespace": "blazorappdemo.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 133717149,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Shared.ModuleTitle",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorappdemo.Shared.ModuleTitle"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Shared.ModuleTitle",
+          "Common.TypeNameIdentifier": "ModuleTitle",
+          "Common.TypeNamespace": "blazorappdemo.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": 1344676906,
         "Kind": "Components.Component",
         "Name": "blazorappdemo.App",
@@ -322,7 +383,7 @@
         }
       },
       {
-        "HashCode": 1033332666,
+        "HashCode": -1471657861,
         "Kind": "Components.Component",
         "Name": "blazorappdemo.Pages.Counter",
         "AssemblyName": "blazorappdemo",
@@ -330,6 +391,17 @@
         "TagMatchingRules": [
           {
             "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "currentCountParameter",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "currentCountParameter",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
           }
         ],
         "Metadata": {
@@ -340,7 +412,7 @@
         }
       },
       {
-        "HashCode": 564149850,
+        "HashCode": -1157501369,
         "Kind": "Components.Component",
         "Name": "blazorappdemo.Pages.Counter",
         "AssemblyName": "blazorappdemo",
@@ -348,6 +420,17 @@
         "TagMatchingRules": [
           {
             "TagName": "blazorappdemo.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "currentCountParameter",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "currentCountParameter",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
           }
         ],
         "Metadata": {
@@ -15933,6 +16016,11 @@
     {
       "FilePath": "c:\\platzi\\blazorappdemo\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\platzi\\blazorappdemo\\Shared\\ModuleTitle.razor",
+      "TargetPath": "Shared\\ModuleTitle.razor",
       "FileKind": "component"
     },
     {
