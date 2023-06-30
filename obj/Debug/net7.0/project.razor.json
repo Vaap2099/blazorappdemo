@@ -179,43 +179,6 @@
         }
       },
       {
-        "HashCode": -1084267002,
-        "Kind": "Components.Component",
-        "Name": "blazorappdemo.Pages.Products.Products",
-        "AssemblyName": "blazorappdemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Products"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazorappdemo.Pages.Products.Products",
-          "Common.TypeNameIdentifier": "Products",
-          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -155282548,
-        "Kind": "Components.Component",
-        "Name": "blazorappdemo.Pages.Products.Products",
-        "AssemblyName": "blazorappdemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorappdemo.Pages.Products.Products"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazorappdemo.Pages.Products.Products",
-          "Common.TypeNameIdentifier": "Products",
-          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": 1470578028,
         "Kind": "Components.Component",
         "Name": "blazorappdemo.Pages.Products.AddProduct",
@@ -247,6 +210,43 @@
         "Metadata": {
           "Common.TypeName": "blazorappdemo.Pages.Products.AddProduct",
           "Common.TypeNameIdentifier": "AddProduct",
+          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1084267002,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Products.Products",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Products"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Products.Products",
+          "Common.TypeNameIdentifier": "Products",
+          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -155282548,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Products.Products",
+        "AssemblyName": "blazorappdemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorappdemo.Pages.Products.Products"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Products.Products",
+          "Common.TypeNameIdentifier": "Products",
           "Common.TypeNamespace": "blazorappdemo.Pages.Products",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
